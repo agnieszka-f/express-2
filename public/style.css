@@ -1,0 +1,15 @@
+h1 {
+  color: blue;	
+}
+h2 {
+  font-style: italic;
+  letter-spacing: 5px;
+}
+
+p {	
+  color: grey;	
+}
+
+footer p{
+  color: green;
+}

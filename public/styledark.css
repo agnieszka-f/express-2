@@ -1,0 +1,24 @@
+@import 'style.css';
+
+body {
+  background: black;	
+}
+h1 {
+  visibility: hidden;	
+}
+
+h2 {
+  color: azure;	
+}
+
+p {
+  color: white;
+}
+
+header a{
+  color: yellow;
+}
+
+footer p{
+  color: red;
+}
